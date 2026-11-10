@@ -1,0 +1,4 @@
+telethon
+pillow
+arabic-reshaper
+python-bidi==0.4.2
